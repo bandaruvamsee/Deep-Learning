@@ -6,6 +6,8 @@ Help:
 How to get to Environment Vairables: Right click on my computer-->Properties-->Advanced System settings-->Click on Evironment Variables and then add
 above path under User Variables.
 
+***Refer to https://www.tensorflow.org/install/install_windows
+
 step3: create a new environment and install tensorflow, keras and other required libraries from
        anaconda prompt
 	conda create -n keras-tf python=3.5 
